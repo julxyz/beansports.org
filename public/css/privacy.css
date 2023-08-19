@@ -1,35 +1,37 @@
-@import url('https://fonts.googleapis.com/css2?family=Roboto:wght@300&display=swap');
 body {
-        font-family: 'Roboto', sans-serif;
-        display: grid;
-        background-color: #272727;
-        color: white;
+  font-family: 'Roboto', sans-serif;
+  display: grid;
+  background-color: #272727;
+  color: white;
 }
+
 .policy {
-        justify-self: center;
-        max-width: 1000px;
+  justify-self: center;
+  max-width: 1000px;
 }
+
 a {
-        color: white;
+  color: white;
 }
+
 /* ===== Scrollbar CSS ===== */
-  /* Firefox */
-  * {
-    scrollbar-width: auto;
-    scrollbar-color: #808080 #272727;
-  }
+/* Firefox */
+* {
+  scrollbar-width: auto;
+  scrollbar-color: #808080 #272727;
+}
 
-  /* Chrome, Edge, and Safari */
-  *::-webkit-scrollbar {
-    width: 16px;
-  }
+/* Chrome, Edge, and Safari */
+*::-webkit-scrollbar {
+  width: 16px;
+}
 
-  *::-webkit-scrollbar-track {
-    background: #ffffff00;
-  }
+*::-webkit-scrollbar-track {
+  background: #ffffff00;
+}
 
-  *::-webkit-scrollbar-thumb {
-    background-color: #808080;
-    border-radius: 10px;
-    border: 5px solid #272727;
-  }
+*::-webkit-scrollbar-thumb {
+  background-color: #808080;
+  border-radius: 10px;
+  border: 5px solid #272727;
+}
