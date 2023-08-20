@@ -1,5 +1,4 @@
 on: [push]
-name: frontend
 jobs:
   deploy:
     runs-on: ubuntu-latest

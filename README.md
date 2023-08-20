@@ -1,5 +1,9 @@
 # beansports.org
 
+## Project status
+[![frontend build status](https://github.com/julxyz/beansports.org/actions/workflows/pages-deployment.yaml/badge.svg?branch=main)](https://github.com/julxyz/beansports.org/actions/workflows/pages-deployment.yaml)
+
+
 ## Project setup
 ```
 npm install
