@@ -1,4 +1,7 @@
-on: [push]
+on:
+  push:
+    branches: [ main ]
+name: frontend build
 jobs:
   deploy:
     runs-on: ubuntu-latest
